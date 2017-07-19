@@ -6,12 +6,12 @@ It's a Lightweight, Mobile-first, Style-agnostic & Responsive Grid System.
 
 Check it out [See full docs](http://achavazza.github.io/)
 
-// ##Usage##
-// Compile quickstarter.less with [Koala](http://koala-app.com)
+## Usage
+// Compile qs.less with [Koala](http://koala-app.com) 
 
 Use it, hack it, break it...
 
-##Grid Markup##
+## Grid Markup
 You can use either `.quads` or `.triads`, (quads for 4 column layout or triads for 3 columns)
 and they can be nested infinitely.
 
@@ -92,12 +92,12 @@ prefixes go from mobile to large
 ```
 
 
-##Twitter account##
+## Twitter account
 
 Follow me at, [@basarium](http://twitter.com/basarium), keep up to date on announcements and more.
 
 
-##Author
+## Author
 
 **Alejandro Chavazza**
 
@@ -105,5 +105,5 @@ Follow me at, [@basarium](http://twitter.com/basarium), keep up to date on annou
 + http://about.me/alejandro.chavazza
 + http://github.com/achavazza
 
-##Copyright and license##
+## Copyright and license
 Quickstarter is free, libre and public domain see more on [http://unlicense.org/](http://unlicense.org/)
