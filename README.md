@@ -1,13 +1,10 @@
-[Quickstarter](http://achavazza.github.io/)
+[Quickstarter](http://achavazza.github.io/qs-docs/)
 =============
 
-Quickstarter is a bunch of tools to help you build your next HTML5 project.
+Quickstarter is a LESS framework to help you build your next HTML5 project.
 It's a Lightweight, Mobile-first, Style-agnostic & Responsive Grid System.
 
-Check it out [See full docs](http://achavazza.github.io/)
-
-## Usage
-// Compile qs.less with [Koala](http://koala-app.com) 
+Check it out [See full docs](http://achavazza.github.io/qs-docs/)
 
 Use it, hack it, break it...
 
